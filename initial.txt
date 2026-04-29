@@ -11,4 +11,4 @@
 
   - From `main`, create branch  and update `initial.txt`.
 
-  - From `b1`, create branch `b3` and add a new file (`b3_file.txt`).
+  - From `b1`, create try to conflict `b3` and add a new file (`b3_file.txt`).
