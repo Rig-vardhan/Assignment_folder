@@ -9,6 +9,6 @@
   
 - Stage and commit only part of the changes using `git add -p` (interactive staging).
 
-  - From `main`, create branch `b1` and update `initial.txt`.
+  - From `main`, create branch  and update `initial.txt`.
 
   - From `b1`, create branch `b2` and add a new file (`b2_file.txt`).
