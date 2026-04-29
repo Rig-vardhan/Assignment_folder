@@ -4,3 +4,7 @@
  Stage a second file (`temp.txt`) but unstage it using `git restore --staged temp.txt`. Then, modify `temp.txt`, stage it again, and unstage it using `git reset HEAD temp.txt`.
 
 - Make changes to `initial.txt` on the remote repository via the GitHub web interface (e.g., add a new line).
+
+- Create a commit on `main` with changes to `initial.txt`.
+  
+- Stage and commit only part of the changes using `git add -p` (interactive staging).
