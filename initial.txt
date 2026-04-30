@@ -14,3 +14,5 @@
   - From `b1`, create try to conflict `b3` and add a new file (`b3_file.txt`).
 
   - From `b1`,the quick brown fox and add a new file (`b3_file.txt`).
+
+  - Modify `initial.txt`, `g1_file`, and add a new file `challenge.txt`.
